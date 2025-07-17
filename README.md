@@ -98,9 +98,8 @@ To deploy this app on [Streamlit Cloud](https://share.streamlit.io):
 
 ## 👤 Author
 
-Developed by [Your Name]  
+Developed by Sneha Chatwani 
 🛠 Solo-built using Python, Streamlit, spaCy, and OCR  
-🚀 Submitted for [Hackathon Name or Link]
 
 ---
 
